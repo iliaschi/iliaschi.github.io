@@ -61,7 +61,7 @@ This helps us see, if there are correlations for high or low values of one again
        type="text/html" 
        src="/images/Bokeh_scatter.html"
        width="1100"
-       height="600"
+       height="400"
        >
 </embed>
 

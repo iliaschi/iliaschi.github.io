@@ -173,7 +173,7 @@ Name | Contribution |         Parts
 |------|-----------------|----------|
 | Ilias Tsikontouris s222557  | 45%        | All |
 | Dimitrios Salogiannis 212471   | 45% | All |
-| Seina    | 10%  | All |
+| Seina  Nakayama  | 10%  | All |
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

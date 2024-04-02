@@ -23,9 +23,7 @@ They are similar to line figures, but the values of counts except the metric val
 
 Here we see that in time the crimes caught have become less and less and that the greatest contributor to the combination is the drug possession rather that drunkness.
 
-![My helpful image](/images/my_stacked_counts_plot_until_2017.html)
 
-Stackplot Figure of
 <embed 
        type="text/html" 
        src="/images/my_stacked_counts_plot_until_2017.html"
@@ -47,6 +45,25 @@ We decided to do it this way, because further aggregations would lose the geogra
 
 What is mostly illustrated is that the Crimes mostly happen in the central Area, near the Bay, Jackson Square and on the main road close to the bridge.
 
+<embed 
+       type="text/html" 
+       src="/images/heatmap_with_time.html"
+       width="1100"
+       height="600"
+       >
+</embed>
+
+The third figure is a Bokeh scatter plot with correlation for our Target new Variable, called Drunk & Drug, and on the y axis all the other crimes of the focus crimes set.
+
+This helps us see, if there are correlations for high or low values of one against the others.
+
+<embed 
+       type="text/html" 
+       src="/images/selected_vs_all_plots.html"
+       width="1100"
+       height="600"
+       >
+</embed>
 
 
 Jekyll also offers powerful support for code snippets:

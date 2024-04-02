@@ -138,10 +138,12 @@ This helps us to see, correlations for high/low values against the others.
        >
 </embed>
 
-A table of 5 Highest and 5 Lowest Correlations for the 168 Hours of the Week among all crimes.
+**A table of 5 Highest and 5 Lowest Correlations for the 168 Hours of the Week among all crimes.**
+
+- This could lead to further investigations between those suspects to see if they are committing 2 or more crimes together, or one prior to the other. This could help predict or prevent such crimes.
 
 A question that arose after creating our new crime category, was to get some deeper understanding of how being drunk and possibly under some narcotic substance, would interact with the rest of the crime types of our data. Therefore, we decided that the Pearson corelation between our new crime category against all the other categories. Link for more information:
-[Pearson Correlation Coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
+[Pearson Correlation](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 
 
 

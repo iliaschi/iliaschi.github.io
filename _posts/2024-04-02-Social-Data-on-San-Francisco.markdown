@@ -78,7 +78,7 @@ We do this to showcase the difference, between the magnitudes of data. Because i
 
 So, they are plotted side by side. This changes results and in a sense 'normalizes' data, without caring so much about absolute values of counts. 
 
-This also is in alignment with the Paper we read in Class [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183110)
+This also is in alignment with the Paper we read in Class [link here ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183110)
 
 
 <b> Regarding the Power Law </b>  
@@ -91,14 +91,18 @@ Because population size does not have an influence on the levels of concentratio
 Highlighting that :
 <b> P of x is arrpoximatexy proportional to x to the power of -a, ${thus}$ :  </b>
 
-![image tooltip here](/images/powerlaw1.png)
+![image tooltip here](/images/powerlaw11.jpg)
 
 $$ p(x) \propto x^{-a} $$
 where the exponent α relates to the type of crime.
 
 
 A general perspective is that several urban indicators have been found to scale with the population size N of the city according to a law of the form: 
+
+![image tooltip here](/images/powerlaw2.jpg)
+
 $$ Y \propto N^{b} $$ 
+
 {Y several urban indicatos, population size N , exponent β relates to the class of the indicator}
 
 

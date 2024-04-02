@@ -132,8 +132,8 @@ This helps us to see, correlations for high/low values against the others.
 <embed 
        type="text/html" 
        src="/images/Bokeh_scatter_2.html"
-       width="1100"
-       height="800"
+       width=auto
+       height=auto
        style="margin: 0; padding: 0;"
        >
 </embed>

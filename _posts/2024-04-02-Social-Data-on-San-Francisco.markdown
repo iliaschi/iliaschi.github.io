@@ -23,7 +23,7 @@ They are similar to line figures, but the values of counts except the metric val
 
 Here we see that in time the crimes caught have become less and less and that the greatest contributor to the combination is the drug possession rather that drunkness.
 
-![My helpful screenshot](/assets/my_stacked_counts_plot_until_2017.html)
+![My helpful screenshot](/images/my_stacked_counts_plot_until_2017.html)
 
 ## How Crimes are located in Space and time
 

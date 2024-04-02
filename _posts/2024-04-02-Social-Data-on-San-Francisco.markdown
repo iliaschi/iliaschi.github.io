@@ -132,7 +132,7 @@ This helps us to see, correlations for high/low values against the others.
 <embed 
        type="text/html" 
        src="/images/Bokeh_scatter_2.html"
-       width=1000
+       width="1000"
        height=auto
        style="margin: 0; padding: 0;"
        >

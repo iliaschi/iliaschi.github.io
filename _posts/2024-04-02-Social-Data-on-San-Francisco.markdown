@@ -167,6 +167,15 @@ Calculations showed that there is a strong positive correlation with the ones in
 | 5    | SEX OFFENSES, NON FORCIBLE  | 0.116725  |
 
 
+## Contributions
+
+Name | Contribution |         Parts   
+|------|-----------------|----------|
+| Ilias Tsikontouris s222557  | 45%        | All |
+| Dimitrios Salogiannis 212471   | 45% | All |
+| Seina    | 10%  | All |
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

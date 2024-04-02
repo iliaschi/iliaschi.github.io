@@ -135,7 +135,7 @@ This helps us to see, correlations for high/low values against the others.
        type="text/html" 
        src="/images/test_scatter.html"
        width="1000"
-       height="500"
+       height="800"
        >
 </embed>
 

@@ -134,6 +134,7 @@ This helps us to see, correlations for high/low values against the others.
        src="/images/Bokeh_scatter.html"
        width="1100"
        height="800"
+       style="margin: 0; padding: 0;"
        >
 </embed>
 

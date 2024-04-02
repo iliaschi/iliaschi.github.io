@@ -169,11 +169,11 @@ Calculations showed that there is a strong positive correlation with the ones in
 
 ## Contributions
 
-Name | Contribution |         All Parts   |
-|----------------|-----------------|----------|
-| Ilias Tsikontouris s222557  | 45%        | All |
-| Dimitrios Salogiannis 212471   | 45% | All |
-| Seina  Nakayama  | 10%  | All |
+Name , Contribution                  |  Parts   |
+|------------------------------------|----------|
+| Ilias Tsikontouris s222557, 45%    | All      |
+| Dimitrios Salogiannis 212471, 45%  | All      |
+| Seina  Nakayama, 10%               | All      |
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

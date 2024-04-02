@@ -91,6 +91,8 @@ Because population size does not have an influence on the levels of concentratio
 Highlighting that :
 <b> P of x is arrpoximatexy proportional to x to the power of -a, ${thus}$ :  </b>
 
+![image tooltip here](/images/powerlaw1.png)
+
 $$ p(x) \propto x^{-a} $$
 where the exponent α relates to the type of crime.
 
@@ -115,15 +117,6 @@ We will also input a table of 5 Highest and 5 Lowest Correlatiosn for the 168 Ho
 </embed>
 
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 

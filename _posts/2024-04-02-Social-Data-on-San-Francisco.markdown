@@ -110,7 +110,7 @@ We will also input a table of 5 Highest and 5 Lowest Correlatiosn for the 168 Ho
        type="text/html" 
        src="/images/Bokeh_scatter.html"
        width="1100"
-       height="400"
+       height="800"
        >
 </embed>
 

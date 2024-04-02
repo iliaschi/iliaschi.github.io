@@ -25,6 +25,7 @@ Here we see that in time the crimes caught have become less and less and that th
 
 ![My helpful image](/images/my_stacked_counts_plot_until_2017.html)
 
+Stackplot Figure of
 <embed 
        type="text/html" 
        src="/images/my_stacked_counts_plot_until_2017.html"

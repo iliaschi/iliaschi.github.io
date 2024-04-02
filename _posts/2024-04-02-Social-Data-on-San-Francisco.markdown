@@ -169,7 +169,7 @@ Calculations showed that there is a strong positive correlation with the ones in
 
 ## Contributions
 
-Name | Contribution |         All Parts   
+Name | Contribution |         All Parts   |
 |----------------|-----------------|----------|
 | Ilias Tsikontouris s222557  | 45%        | All |
 | Dimitrios Salogiannis 212471   | 45% | All |

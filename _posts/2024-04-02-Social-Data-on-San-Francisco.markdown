@@ -129,12 +129,13 @@ Here, a Bokeh scatter plot with correlation for our Engineered Variable, x axis 
 
 This helps us to see, correlations for high/low values against the others.
 
+<b> Please wait for it to load and scroll down as for some reason every time it runs it changes the size</b>
+
 <embed 
        type="text/html" 
-       src="/images/Bokeh_scatter_2.html"
+       src="/images/test_scatter.html"
        width="1000"
        height="500"
-       style="margin: 0; padding: 0;"
        >
 </embed>
 

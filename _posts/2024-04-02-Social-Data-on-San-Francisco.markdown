@@ -10,6 +10,8 @@ categories: jekyll update
 We decided to see how the crimes of Drug Possession and Drunkenness go over time, and how they interact with the other focus crimes.  For the combination we choose only where the description of the DRUG/NARCOTIC was possession. This was done because it is for personal use, since if an amount is exceeded or further suspicion is there, then it becomes another crime level which is selling or distribution charges.
 This is why we will explore how they change over the years, see how and when they are spatially and temporarily noted in the system and then see how they correlate and interact with other focus crimes.
 
+The focus is to see how it changes and affects other crime types also.
+
 
 ## How the Crimes Change Over time, Highlight 1.
 Our first figure is An Area stack plot of the Crimes.
@@ -20,6 +22,8 @@ Stack Area Plot works by having the components on top of each other and lastly t
 They are similar to line figures, but the values of counts except the metric values are illustrated by two-dimensional bands rather than lines. The advantage is that we can see Multiple time-series together simply by stacking the bands.
 
 Here we see that in time the crimes caught have become less and less and that the greatest contributor to the combination is the drug possession rather that drunkness.
+
+![My helpful screenshot](/assets/my_stacked_counts_plot_until_2017.html)
 
 ## How Crimes are located in Space and time
 

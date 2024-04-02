@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Social Data Analysis"
 date:   2024-04-02 10:10:41 +0200
 categories: jekyll update
 ---

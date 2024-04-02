@@ -1,15 +1,40 @@
 ---
 layout: post
-title:  "Social Data Analysis"
+title:  "Social Data Analysis of San Fransisco Data"
 date:   2024-04-02 10:10:41 +0200
 categories: jekyll update
 ---
+# Our Story of the San Francisco Data 
 
-DOKIMI
+## Intro
+We decided to see how the crimes of Drug Possession and Drunkenness go over time, and how they interact with the other focus crimes.  For the combination we choose only where the description of the DRUG/NARCOTIC was possession. This was done because it is for personal use, since if an amount is exceeded or further suspicion is there, then it becomes another crime level which is selling or distribution charges.
+This is why we will explore how they change over the years, see how and when they are spatially and temporarily noted in the system and then see how they correlate and interact with other focus crimes.
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## How the Crimes Change Over time, Highlight 1.
+Our first figure is An Area stack plot of the Crimes.
+It is done with Boheh so it is possible to see how each of Drunkenness and Narcotics contribute both together and individually.
+
+Stack Area Plot works by having the components on top of each other and lastly the final aggregated, in this case a sum over each day of the Counts of the crimes and the final one one top.
+
+They are similar to line figures, but the values of counts except the metric values are illustrated by two-dimensional bands rather than lines. The advantage is that we can see Multiple time-series together simply by stacking the bands.
+
+Here we see that in time the crimes caught have become less and less and that the greatest contributor to the combination is the drug possession rather that drunkness.
+
+## How Crimes are located in Space and time
+
+<b> The second figure is a Heat map with Time.</b>
+
+Here, we can see where they are located at different times of the day.
+We did an aggregation that is based on a double loop, the first is the day of week, the inside is the hour. Then it gets appended into a list so it can be plotted.
+
+This is an advantage over the classical map, because we can also see, the time instead of just a static sum. This helps us explore and explain the data with more detail.
+
+We decided to do it this way, because further aggregations would lose the geographical and time data that is with each element of the crime dataframe.
+
+What is mostly illustrated is that the Crimes mostly happen in the central Area, near the Bay, Jackson Square and on the main road close to the bridge.
+
+
 
 Jekyll also offers powerful support for code snippets:
 

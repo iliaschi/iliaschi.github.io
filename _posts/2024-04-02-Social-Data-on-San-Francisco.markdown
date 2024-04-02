@@ -91,7 +91,7 @@ Because population size does not have an influence on the levels of concentratio
 Highlighting that :
 <b> P of x is arrpoximatexy proportional to x to the power of -a, ${thus}$ :  </b>
 
-![image tooltip here](/images/powerlaw11.jpg)
+![Powerlaw 1](/images/powerlaw11.jpg)
 
 $$ p(x) \propto x^{-a} $$
 where the exponent α relates to the type of crime.
@@ -99,7 +99,7 @@ where the exponent α relates to the type of crime.
 
 A general perspective is that several urban indicators have been found to scale with the population size N of the city according to a law of the form: 
 
-![image tooltip here](/images/powerlaw2.jpg)
+![population power law ](/images/powerlaw2.jpg)
 
 $$ Y \propto N^{b} $$ 
 

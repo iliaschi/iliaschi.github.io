@@ -59,7 +59,7 @@ This helps us see, if there are correlations for high or low values of one again
 
 <embed 
        type="text/html" 
-       src="/images/selected_vs_all_plots.html"
+       src="/images/Bokeh_scatter.html"
        width="1100"
        height="600"
        >

@@ -4,7 +4,7 @@ title:  "Social Data Analysis of San Fransisco Data"
 date:   2024-04-02 10:10:41 +0200
 categories: jekyll update
 ---
-# Our Story of the San Francisco Data 
+# Our Story of the San Francisco Crimes Data 
 
 ## Intro
 We showcase the crimes of Drug Possession, Drunkenness and a combination of them over time, and their interaction with other crimes.  
@@ -88,7 +88,6 @@ Megan Cassidy, with The Chronicle. Cassidy worked for the Arizona Republic cover
        width="1100"
        height="600"
        >
-</embed>
 
 ## Relationships between Crimes and Log transformation
 

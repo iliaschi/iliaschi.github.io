@@ -137,7 +137,7 @@ This helps us to see, correlations for high/low values against the others.
        width="1000"
        height="800"
        >
-</embed>
+
 
 **A table of 5 Highest and 5 Lowest Correlations for the 168 Hours of the Week among all crimes.**
 
